@@ -1,0 +1,31 @@
+.conteneur{
+    width : 50vh ;
+    height : 80vh ;
+    background-color: #000000;
+    border-radius: 50px;
+    margin : auto ;
+    display :flex ;
+    
+
+}
+#momo{
+    background-color: yellow;
+    color : black;
+    width : 100% ;
+    height :auto ;
+    margin: 0px;
+    text-align: center;
+
+}
+#ecran{
+    width : 48vh ;
+    height : 32vh ;
+    background-color: aquamarine;
+    margin-top: 50px;
+    margin-left:6px; ;
+    border-radius: 15px;
+
+}
+.clique , .momo{
+    font-size: small;
+}
